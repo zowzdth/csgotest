@@ -1,0 +1,211 @@
+{
+  "CustomLocations": [
+    {
+      "Name": "Two Hoots Falls",
+      "X": -1576.360595703125,
+      "Y": 2102.125244140625,
+      "Z": 68.04744720458984
+    }
+  ],
+  "CustomVehicles": [
+    {
+      "DashboardColorIndex": -1,
+      "EnvEffScale": -1.0,
+      "Flags": {
+        "BulletproofTyres": true,
+        "CustomPrimaryColor": false,
+        "CustomSecondaryColor": false,
+        "ExtraFlag1": false,
+        "ExtraFlag10": true,
+        "ExtraFlag11": true,
+        "ExtraFlag12": true,
+        "ExtraFlag2": false,
+        "ExtraFlag3": false,
+        "ExtraFlag4": false,
+        "ExtraFlag5": false,
+        "ExtraFlag6": false,
+        "ExtraFlag7": false,
+        "ExtraFlag8": false,
+        "ExtraFlag9": false,
+        "NeonBack": false,
+        "NeonFront": false,
+        "NeonLeft": false,
+        "NeonRight": false
+      },
+      "InteriorColorIndex": -1,
+      "ModelHash": 2859047862,
+      "Name": "Trevor's Bodhi",
+      "NeonColor": {
+        "b": 0,
+        "g": 0,
+        "r": 0
+      },
+      "NumberPlateIndex": 0,
+      "PearlesentColorIndex": 0,
+      "PrimaryColor": {
+        "b": 71,
+        "g": 14,
+        "r": 14
+      },
+      "PrimaryColorIndex": 32,
+      "SecondaryColor": {
+        "b": 8,
+        "g": 8,
+        "r": 8
+      },
+      "SecondaryColorIndex": 0,
+      "TyreSmokeColor": {
+        "b": 255,
+        "g": 255,
+        "r": 255
+      },
+      "VehicleMods": [
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "WheelColorIndex": 156,
+      "WheelType": 0,
+      "WheelVariations": [
+        -1,
+        -1
+      ],
+      "WindowTint": 0
+    }
+  ],
+  "Hotkeys": [
+    {
+      "Action": "TeleportToWaypoint",
+      "VirtualKey": 117
+    },
+    {
+      "Action": "HealAll",
+      "VirtualKey": 118
+    },
+    {
+      "Action": "ClearWantedLevel",
+      "VirtualKey": 119
+    },
+    {
+      "Action": "TeleportToObjective",
+      "VirtualKey": 121
+    }
+  ],
+  "Menu": {
+    "KeyBindings": {
+      "BackKey": 96,
+      "DownKey": 98,
+      "LeftKey": 100,
+      "MenuToggle": 116,
+      "RightKey": 102,
+      "SelectKey": 101,
+      "UpKey": 104
+    },
+    "KeyboardWorkaround": true,
+    "Opacity": 192,
+    "XPosition": 240,
+    "YPosition": 40
+  },
+  "PlayerOptions": {
+    "EveryoneIgnore": false,
+    "FreezeWantedLevel": false,
+    "GodMode": false,
+    "NeverWanted": false,
+    "NoRagdoll": false,
+    "PoliceIgnore": false,
+    "RunSpeed": 1.0,
+    "SeatbeltEnabled": false,
+    "SwimSpeed": 1.0,
+    "Waterproof": false
+  },
+  "Protection": {
+    "NoAlterStats": false,
+    "NoAlterWantedLevel": false,
+    "NoFreeze": false,
+    "NoKick": false,
+    "NoPTFX": false,
+    "NoRemoteControl": false,
+    "NoRemoteRagdoll": false,
+    "NoRemoteTeleport": false,
+    "NoRemoveAllWeapons": false,
+    "NoRemoveWeapon": false
+  },
+  "Tunables": {
+    "APMultiplier": 1.0,
+    "DailyObjectivesBonus": false,
+    "ExtendBunkerTimers": false,
+    "ExtendExportTimers": false,
+    "ExtendMCTimers": false,
+    "ExtendNightclubTimers": false,
+    "MinMissionPayout": 0.0,
+    "NoIdleAFK": false,
+    "RPMultiplier": 1.0,
+    "RemoveFreemodeMissionCooldown": false,
+    "RemoveIECooldown": false,
+    "RemoveMissionTimeThrottling": false,
+    "RemoveNightclubCooldown": false,
+    "RemoveOribitalCooldown": false
+  },
+  "Vehicle": {
+    "BoostAutoRecharge": false,
+    "DisableRestore": false,
+    "FreezeAmmo": false,
+    "InfiniteBoost": false,
+    "MaxSpeed": 0.0
+  },
+  "Weapons": {
+    "DisableRestore": false,
+    "FreezeAmmo": false,
+    "InfiniteAmmo": false,
+    "InfiniteClip": false,
+    "NoRecoil": false,
+    "NoReload": false,
+    "NoSpread": false
+  }
+}
